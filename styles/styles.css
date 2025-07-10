@@ -136,7 +136,7 @@
 .focus-better{
     text-align: center;
     background-color: white;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border-radius: 20px;
     margin-top: 140px;
     padding: 50px 150px;
@@ -145,3 +145,33 @@
     margin-top: 20px;
     border-radius: 45px;
 }
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer{
+    text-align: center;
+    background-color: white;
+    box-shadow:rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+    padding: 100px 450px;
+}
+.footer-logo{
+    font-weight: bolder;
+    font-size: 80px;
+    color: #4E47FF;
+}
+.footer-descripton{
+    color: #8987A1;
+}
+.footer-menu{
+     color: #8987A1;
+    text-decoration: none;
+   margin-left: 25px;
+}           
