@@ -124,3 +124,24 @@
 .rate{
     margin-top:-50px;
 }
+
+/*  focus better */
+.focus-tittle{
+    font-weight: bold;
+    font-size: 50px;
+}
+.focus-description{
+    color: #000000;
+}
+.focus-better{
+    text-align: center;
+    background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+    border-radius: 20px;
+    margin-top: 140px;
+    padding: 50px 150px;
+}
+.focus-better-img{
+    margin-top: 20px;
+    border-radius: 45px;
+}
