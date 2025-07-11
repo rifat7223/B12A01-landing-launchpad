@@ -124,6 +124,37 @@
 .rate{
     margin-top:-50px;
 }
+/* reviewer */
+.users{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.users-tittle{
+    margin-top: 145px;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 50px;
+}
+.users-ratings{
+  background-color: #8987A1;
+padding-top: 20px;
+padding: 50px;
+border-radius: 20px;
+}
+.reviewer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.reviewer-img{
+    border-radius: 50%;
+}
+.reviewer-date{
+    margin-top: -10px;
+    color: rgba(86, 85, 95, 0.2);
+}
 
 /*  focus better */
 .focus-tittle{
@@ -146,9 +177,29 @@
     border-radius: 45px;
 }
 
-
-
-
+/* get-touch-tittle */
+.let-get-in-touch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 160px;
+    background-color: #8987A1;
+     padding: 0 50px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.get-touch-tittle{
+    font-weight: bold;
+    font-size: 100px;
+    
+}
+.touch{
+    padding: 10px 110px;
+    margin-top: 10px;
+}
+.border{
+    border-radius: 5px;
+}
 
 
 
